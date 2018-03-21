@@ -1,0 +1,42 @@
+- Learn SQL
+- Success metric & tracking metric
+- A/B Testing
+- IPy, Tableau, Excel
+- Communication
+- Predictive modeling
+
+Starup IDEA
+
+making love calculator
+input the girl response to the app, and predict how much she like or love you.
+the app will suggest you the best decision or another option, to get her or leave her.
+
+It's smartest makcomblang app.
+
+example:
+You: Good morning!
+Her: ... (Not answering)
+
+How can the app predict if she's like or not?
+I guess you now if she's not like you, if the app run like this, I think it's useless
+try another action, don't just using chat app or direct chat.
+try to comment her instagram story or picture,
+
+another example:
+Her: Uploading new picture(instastory), tell about she's doing something about thesis.
+You: Good Luck!
+Her: Thanks :) (with smile emoticon)
+
+How the app can predict this converstation?
+how about imageRecognition, you download picture or instastory upload it to the app
+the app suggest you how to comment on it.
+you do that, input the response
+and what the answer?
+I think the answer is defend on what you said to her.
+If you just say "Good Luck" or something like this, the answer will be "thanks" even if she's not like you
+Wait, don't feel bad. I think the app will recognize what emoticon you have from her.
+So this will be meaning something.
+
+How do you think Lerry?
+
+
